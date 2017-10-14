@@ -7,3 +7,5 @@ This repository shows how to make reads from a DHT11 temperature and humidity se
 - 330 ohm resistor
 - Breadboard
 - Jumpers
+
+[materials image] (Images/Materials.jpg)
