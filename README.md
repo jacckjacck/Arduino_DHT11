@@ -8,5 +8,4 @@ This repository shows how to make reads from a DHT11 temperature and humidity se
 - Breadboard
 - Jumpers
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-[materials image] (Images/Materials.jpg?raw=true "Optional Title")
+[materials image](Images/Materials.jpg?raw=true "Optional Title")
