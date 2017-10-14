@@ -18,3 +18,6 @@ This repository shows how to make reads from a DHT11 temperature and humidity se
 ## Sketch
 
 [Sketch](Images/DHT11_sketch.jpg)
+
+## Results
+[Sketch](Images/Results.jpg)
