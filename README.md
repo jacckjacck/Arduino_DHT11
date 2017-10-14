@@ -8,7 +8,8 @@ This repository shows how to make reads from a DHT11 temperature and humidity se
 - Breadboard
 - Jumpers
 
-[materials image](Images/Materials.jpg)
+[Materials](Images/Materials.jpg)
+
 
 ## Sensor Links
 
@@ -20,4 +21,5 @@ This repository shows how to make reads from a DHT11 temperature and humidity se
 [Sketch](Images/DHT11_sketch.jpg)
 
 ## Results
-[Sketch](Images/Results.jpg)
+[Assembly](Images/Assembly.jpg)
+[Results](Images/Results.jpg)
